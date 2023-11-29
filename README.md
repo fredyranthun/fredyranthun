@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @fredyranthun (Web developer/engineer).
-- 👀 I’m focused in Web technologies for Frontend (React, Vue, NextJs, Remix) and Backend (NodeJs, Go, Java). 
+- 👀 I’m focused in Web technologies for Frontend (React, Vue, NextJs, Remix) and Backend (NodeJs, Go, Java, Rust, Python). 
 - 🌱 I’m currently learning and deepen my knowledge in Javascript/Typescript and its Frameworks and libraries, as well as NodeJs and architecture of systems.
 - 💞️ I’m looking to collaborate on web projects as Frontend and Backend developer.
-- 📫 How to reach me - Twitter: @fredy_ranthun :)
